@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "TURN OVER",
+  "base_artist": "9Lana",
+  "createdAt": "2026-03-28T06:20:44.856078Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Time Turn Over",
+      "artist": "Rebecca Lavelle",
+      "has_synced": false,
+      "path": "select/01_Time_Turn_Over_Rebecca_Lavelle.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Turn Over a New Leaf",
+      "artist": "John Lee Hooker",
+      "has_synced": true,
+      "path": "select/02_Turn_Over_a_New_Leaf_John_Lee_Hooker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Turn Over a New Leaf",
+      "artist": "Hooker, John Lee",
+      "has_synced": true,
+      "path": "select/03_Turn_Over_a_New_Leaf_Hooker,_John_Lee.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "turn over?",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/04_turn_over_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Turn Over a New Leaf",
+      "artist": "John Lee Hooker",
+      "has_synced": true,
+      "path": "select/05_Turn_Over_a_New_Leaf_John_Lee_Hooker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Turn Over",
+      "artist": "Sika Rlion",
+      "has_synced": false,
+      "path": "select/06_Turn_Over_Sika_Rlion.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Turn Over The Pages",
+      "artist": "Stud",
+      "has_synced": false,
+      "path": "select/07_Turn_Over_The_Pages_Stud.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "turn over?",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/08_turn_over_Mr.Children.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TURN OVER",
+      "artist": "9Lana",
+      "has_synced": false,
+      "path": "select/pl_01_TURN_OVER_9Lana.txt"
+    }
+  ]
+}
